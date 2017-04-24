@@ -1,0 +1,1951 @@
+{
+  "message": "Found data.",
+  "data": {
+    "documentType": "CREDIT SUPPORT ANNEX",
+    "partyA": "BARCLAYS BANK PLC",
+    "partyB": "WORLD OMNI AUTO RECEIVABLES"    ,
+    "form": "Unilateral",
+    "exhibit": "\u00ad99.6",
+    "amendment_date": "",
+    "master_Agreement_Date": "September 26, 2007",
+    "jurisdiction": "New York",
+    "data": [
+      {
+        "paragraph": "Paragraph 1",
+        "paragraph_value": " Interpretation",
+        "data": [
+          {
+            "concept": "Definitions and Inconsistency.",
+            "definition": "Capitalized terms not otherwise defined herein or elsewhere in this Agreement have the meanings specified pursuant to Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs of this Annex. In the event of any inconsistency between this Annex and the other provisions of this Schedule, this Annex will prevail, and in the event of any inconsistency between Paragraph 13 and the other provisions of this Annex, Paragraph 13 will prevail.",
+            "references": "Paragraph 13, Paragraph 12",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Secured Party and Pledgor.",
+            "definition": "All references in this Annex to the “Secured Party” will be to either party when acting in that capacity and all corresponding references to the “Pledgor” will be to the other party when acting in that capacity; , that if Other Posted Support is held by a party to this Annex, all references herein to that party as the Secured Party with respect to that Other Posted Support will be to that party as the beneficiary thereof and will not subject that support or that party as the beneficiary thereof to provisions of law generally relating to security interests and secured parties.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 2",
+        "paragraph_value": " Security Interest",
+        "data": [
+          {
+            "concept": "null",
+            "definition": "Each party, as the Pledgor, hereby pledges to the other party, as the Secured Party, as security for its Obligations, and grants to the Secured Party a first priority continuing security interest in, lien on and right of Set\u00adoff against all Posted Collateral Transferred to or received by the Secured Party hereunder. Upon the Transfer by the Secured Party to the Pledgor of Posted Collateral, the security interest and lien granted hereunder on that Posted Collateral will be released immediately and, to the extent possible, without any further action by either party.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 3",
+        "paragraph_value": " Credit Support Obligations",
+        "data": [
+          {
+            "concept": "Delivery Amount.",
+            "definition": "Subject to Paragraphs 4 and 5, upon a demand made by the Secured Party on or promptly following a Valuation Date, if the Delivery Amount for that Valuation Date equals or exceeds the Pledgor’s Minimum Transfer Amount, then the Pledgor will Transfer to the Secured Party Eligible Credit Support having a Value as of the date of Transfer at least equal to the applicable Delivery Amount (rounded pursuant to Paragraph 13). Unless otherwise specified in Paragraph 13, the applicable to the Pledgor for any Valuation Date will equal the amount by which:",
+            "references": "Paragraph 13, Paragraph 4, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "the Value as of that Valuation Date of all Posted Credit Support held by the Secured Party.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Return Amount.",
+            "definition": "Subject to Paragraphs 4 and 5, upon a demand made by the Pledgor on or promptly following a Valuation Date, if the Return Amount for that Valuation Date equals or exceeds the Secured Party’s Minimum Transfer Amount, then the Secured Party will Transfer to the Pledgor Posted Credit Support specified by the Pledgor in that demand having a Value as of the date of Transfer as close as practicable to the applicable Return Amount (rounded pursuant to Paragraph 13). Unless otherwise specified in Paragraph 13, the applicable to the Secured Party for any Valuation Date will equal the amount by which:",
+            "references": "Paragraph 13, Paragraph 4, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "the Credit Support Amount.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "“Credit Support Amount” means, unless otherwise specified in Paragraph 13, for any Valuation Date (i) the Secured Party’s Exposure for that Valuation Date plus (ii) the aggregate of all Independent Amounts applicable to the Pledgor, if any, minus",
+            "references": "Paragraph 13",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 4",
+        "paragraph_value": " Conditions Precedent, Transfer Timing, Calculations and Substitutions",
+        "data": [
+          {
+            "concept": "Conditions Precedent.",
+            "definition": "Each Transfer obligation of the Pledgor under Paragraphs 3 and 5 and of the Secured Party under Paragraphs 3, 4(d)(ii), 5 and 6(d) is subject to the conditions precedent that:",
+            "references": "Paragraph 3, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "no Early Termination Date for which any unsatisfied payment obligations exist has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the other party.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Transfer Timing.",
+            "definition": "Subject to Paragraphs 4(a) and 5 and unless otherwise specified, if a demand for the Transfer of Eligible Credit Support or Posted Credit Support is made by the Notification Time, then the relevant Transfer will be made not later than the close of business on the next Local Business Day; if a demand is made after the Notification Time, then the relevant Transfer will be made not later than the close of business on the second Local Business Day thereafter.",
+            "references": "Paragraph 4a, Paragraph 5",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Calculations.",
+            "definition": "All calculations of Value and Exposure for purposes of Paragraphs 3 and 6(d) will be made by the Valuation Agent as of the Valuation Time. The Valuation Agent will notify each party (or the other party, if the Valuation Agent is a party) of its calculations not later than the Notification Time on the Local Business Day following the applicable Valuation Date (or in the case of Paragraph 6(d), following the date of calculation).",
+            "references": "Paragraph 3, Paragraph 6d",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 5",
+        "paragraph_value": " Dispute Resolution",
+        "data": [
+          {
+            "concept": "null",
+            "definition": "If a party (a “Disputing Party”) disputes (I) the Valuation Agent’s calculation of a Delivery Amount or a Return Amount or (II) the Value of any Transfer of Eligible Credit Support or Posted Credit Support, then (1) the Disputing Party will notify the other party and the Valuation Agent and the other party (if the Valuation Agent is not the other party) not later than the close of business on the Local Business Day following (X) the date that the demand is made under Paragraph 3 in the case of (I) above or (Y) the date of Transfer in the case of (II) above, (2) subject to Paragraph 4(a), the appropriate party will Transfer the undisputed amount to the other party not later than the close of business on the Local Business Day following (X) the date that the demand is made under Paragraph 3 in the case of (I) above or (Y) the date of Transfer in the case of (II) above, (3) the parties will consult with each other in an attempt to resolve the dispute and (4) if they fail to resolve the dispute by the Resolution Time, then:",
+            "references": "Paragraph 4a, Paragraph 3",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Following a recalculation pursuant to this Paragraph, the Valuation Agent will notify each party (or the other party, if the Valuation Agent is a party) not later than the Notification Time on the Local Business Day following the Resolution Time. The appropriate party will, upon demand following that notice by the Valuation Agent or a resolution pursuant to (3) above and subject to Paragraphs 4(a) and 4(b), make the appropriate Transfer.",
+            "references": "Paragraph 4a, Paragraph 4b",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 6",
+        "paragraph_value": " Holding and Using Posted Collateral",
+        "data": [
+          {
+            "concept": "Care of Posted Collateral.",
+            "definition": "Without limiting the Secured Party’s rights under Paragraph 6(c), the Secured Party will exercise reasonable care to assure the safe custody of all Posted Collateral to the extent required by applicable law, and in any event the Secured Party will be deemed to have exercised reasonable care if it exercises at least the same degree of care as it would exercise with respect to its own property. Except as specified in the preceding sentence, the Secured Party will have no duty with respect to Posted Collateral, including, without limitation, any duty to collect any Distributions, or enforce or preserve any rights pertaining thereto.",
+            "references": "Paragraph 6c",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "General.",
+            "definition": "",
+            "references": "Paragraph 13",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Liability.",
+                "value": "The Secured Party will be liable for the acts or omissions of its Custodian to the same extent that the Secured Party would be liable hereunder for its own acts or omissions.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Use of Posted Collateral.",
+            "definition": "Unless otherwise specified in Paragraph 13 and without limiting the rights and obligations of the parties under Paragraphs 3, 4(d)(ii), 5, 6(d) and 8, if the Secured Party is not a Defaulting Party or an Affected Party with respect to a Specified Condition and no Early Termination Date has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the Secured Party, then the Secured Party will, notwithstanding Section 9\u00ad207 of the New York Uniform Commercial Code, have the right to:",
+            "references": "Paragraph 13, Paragraph 3",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "register any Posted Collateral in the name of the Secured Party, its Custodian or a nominee for either.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "For purposes of the obligation to Transfer Eligible Credit Support or Posted Credit Support pursuant to Paragraphs 3 and 5 and any rights or remedies authorized under this Agreement, the Secured Party will be deemed to continue to hold all Posted Collateral and to receive Distributions made thereon, regardless of whether the Secured Party has exercised any rights with respect to any Posted Collateral pursuant to (i) or (ii) above.",
+            "references": "Paragraph 3, Paragraph 5",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 7",
+        "paragraph_value": " Events of Default",
+        "data": [
+          {
+            "concept": "null",
+            "definition": "For purposes of Section 5(a)(iii)(1) of this Agreement, an Event of Default will exist with respect to a party if:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 8",
+        "paragraph_value": " Certain Rights and Remedies",
+        "data": [
+          {
+            "concept": "Secured Party’s Rights and Remedies.",
+            "definition": "If at any time (1) an Event of Default or Specified Condition with respect to the Pledgor has occurred and is continuing or (2) an Early Termination Date has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the Pledgor, then, unless the Pledgor has paid in full all of its Obligations that are then due, the Secured Party may exercise one or more of the following rights and remedies:",
+            "references": "",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "all rights and remedies available to a secured party under applicable law with respect to Posted Collateral held by the Secured Party;",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "Each party acknowledges and agrees that Posted Collateral in the form of securities may decline speedily in value and is of a type customarily sold on a recognized market, and, accordingly, the Pledgor is not entitled to prior notice of any sale of that Posted Collateral by the Secured Party, except any notice that is required under applicable law and cannot be waived.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Pledgor’s Rights and Remedies.",
+            "definition": "If at any time an Early Termination Date has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the Secured Party, then (except in the case of an Early Termination Date relating to less than all Transactions (or Swap Transactions) where the Secured Party has paid in full all of its obligations that are then due under Section 6(e) of this Agreement):",
+            "references": "",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "null",
+                "value": "to the extent that Posted Collateral or the Interest Amount is not so Transferred pursuant to (iii) above, the Pledgor may:",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Deficiencies and Excess Proceeds.",
+            "definition": "The Secured Party will Transfer to the Pledgor any proceeds and Posted Credit Support remaining after liquidation, Set\u00adoff and/or application under Paragraphs 8(a) and 8(b) after satisfaction in full of all amounts payable by the Pledgor with respect to any Obligations; the Pledgor in all events will remain liable for any amounts remaining unpaid after any liquidation, Set\u00adoff and/or application under Paragraphs 8(a) and 8(b).",
+            "references": "Paragraph 8b, Paragraph 8a",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Final Returns.",
+            "definition": "When no amounts are or thereafter may become payable by the Pledgor with respect to any Obligations (except for any potential liability under Section 2(d) of this Agreement), the Secured Party will Transfer to the Pledgor all Posted Credit Support and the Interest Amount, if any.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 9",
+        "paragraph_value": " Representations",
+        "data": [
+          {
+            "concept": "null",
+            "definition": "Each party represents to the other party (which representations will be deemed to be repeated as of each date on which it, as the Pledgor, Transfers Eligible Collateral) that:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 10",
+        "paragraph_value": " Expenses",
+        "data": [
+          {
+            "concept": "General.",
+            "definition": "Except as otherwise provided in Paragraphs 10(b) and 10(c), each party will pay its own costs and expenses in connection with performing its obligations under this Annex and neither party will be liable for any costs and expenses incurred by the other party in connection herewith.",
+            "references": "Paragraph 10c, Paragraph 10b",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 11",
+        "paragraph_value": " Miscellaneous",
+        "data": [
+          {
+            "concept": "Default Interest.",
+            "definition": "A Secured Party that fails to make, when due, any Transfer of Posted Collateral or the Interest Amount will be obligated to pay the Pledgor (to the extent permitted under applicable law) an amount equal to interest at the Default Rate multiplied by the Value of the items of property that were required to be Transferred, from (and including) the date that Posted Collateral or Interest Amount was required to be Transferred to (but excluding) the date of Transfer of that Posted Collateral or Interest Amount. This interest will be calculated on the basis of daily compounding and the actual number of days elapsed.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Further Assurances.",
+            "definition": "Promptly following a demand made by a party, the other party will execute, deliver, file and record any financing statement, specific assignment or other document and take any other action that may be necessary or desirable and reasonably requested by that party to create, preserve, perfect or validate any security interest or lien granted under",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Paragraph 2, to enable that party to exercise or enforce its rights under this Annex with respect to Posted Credit Support or an Interest Amount or to effect or document a release of a security interest on Posted Collateral or an Interest Amount.",
+            "references": "Paragraph 2",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 12",
+        "paragraph_value": " Definitions As used in this Annex:—",
+        "data": [
+          {
+            "concept": "null",
+            "definition": "“Distributions” means with respect to Posted Collateral other than Cash, all principal, interest and other payments and distributions of cash or other property with respect thereto, regardless of whether the Secured Party has disposed of that Posted Collateral under Paragraph 6(c). Distributions will not include any item of property acquired by the Secured Party upon any disposition or liquidation of Posted Collateral or, with respect to any Posted Collateral in the form of Cash, any distributions on that collateral, unless otherwise specified herein.",
+            "references": "Paragraph 6c",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Eligible Collateral” means, with respect to a party, the items, if any, specified as such for that party in Paragraph 13. “Eligible Credit Support” means Eligible Collateral and Other Eligible Support.",
+            "references": "Paragraph 13",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Exposure” means for any Valuation Date or other date for which Exposure is calculated and subject to Paragraph 5 in the case of a dispute, the amount, if any, that would be payable to a party that is the Secured Party by the other party (expressed as a positive number) or by a party that is the Secured Party to the other party (expressed as a negative number) pursuant to Section 6(e)(ii)(2)",
+            "references": "Paragraph 5",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Independent Amount” means, with respect to a party, the amount specified as such for that party in Paragraph 13; if no amount is specified, zero.",
+            "references": "Paragraph 13;",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Interest Amount” means, with respect to an Interest Period, the aggregate sum of the amounts of interest calculated for each day in that Interest Period on the principal amount of Posted Collateral in the form of Cash held by the Secured Party on that day, determined by the Secured Party for each such day as follows:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Interest Period” means the period from (and including) the last Local Business Day on which an Interest Amount was Transferred (or, if no Interest Amount has yet been Transferred, the Local Business Day on which Posted Collateral in the form of Cash was Transferred to or received by the Secured Party) to (but excluding) the Local Business Day on which the current Interest Amount is to be Transferred.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Local Business Day”, unless otherwise specified in Paragraph 13, has the meaning specified in the Definitions Section of this Agreement, except that references to a payment in clause (b) thereof will be deemed to include a Transfer under this Annex.",
+            "references": "Paragraph 13",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Minimum Transfer Amount” means, with respect to a party, the amount specified as such for that party in Paragraph 13; if no amount is specified, zero.",
+            "references": "Paragraph 13;",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Other Posted Support” means all Other Eligible Support Transferred to the Secured Party that remains in effect for the benefit of that Secured Party.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Posted Collateral” means all Eligible Collateral, other property, Distributions, and all proceeds thereof that have been Transferred to or received by the Secured Party under this Annex and not Transferred to the Pledgor pursuant to Paragraph 3(b), 4(d)(ii) or 6(d)(i) or released by the Secured Party under Paragraph 8. Any Interest Amount or portion thereof not Transferred pursuant to Paragraph 6(d)(ii) will constitute Posted Collateral in the form of Cash.",
+            "references": "Paragraph 8, Paragraph 3b, Paragraph 6dii",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Posted Credit Support” means Posted Collateral and Other Posted Support.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Secured Party” means either party, when that party (i) makes a demand for or is entitled to receive Eligible Credit Support under Paragraph 3(a) or (ii) holds or is deemed to hold Posted Credit Support.",
+            "references": "Paragraph 3a",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Threshold” means, with respect to a party, the amount specified as such for that party in Paragraph 13; if no amount is specified, zero.",
+            "references": "Paragraph 13;",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Transfer” means, with respect to any Eligible Credit Support, Posted Credit Support or Interest Amount, and in accordance with the instructions of the Secured Party, Pledgor or Custodian, as applicable:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Value” means for any Valuation Date or other date for which Value is calculated and subject to Paragraph 5 in the case of a dispute, with respect to:",
+            "references": "Paragraph 5",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      },
+      {
+        "paragraph": "Paragraph 13",
+        "paragraph_value": " Elections and Variables",
+        "data": [
+          {
+            "concept": "Security Interest for “Obligations.”",
+            "definition": "The term “Obligations” as used in this Annex includes no additional obligations with respect to Party A or Party B.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Delivery Amount, Return Amount and Credit Support Amount",
+            "definition": "",
+            "references": "Paragraph 13”, Paragraph 3a",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Delivery Amount, Return Amount and Credit Support Amount",
+                "value": "",
+                "hasMoreData": true,
+                "data": [
+                  {
+                    "name": "Delivery Amount",
+                    "value": "“” has the meaning specified in Paragraph 3(a) as amended (I) by deleting the words “upon a demand made by the Secured Party on or promptly following a Valuation Date” and inserting in lieu thereof the words “not later than the close of business on each Valuation Date” and (II) by deleting in its entirety the sentence beginning “Unless otherwise specified in Paragraph 13” and ending “(ii) the Value as of that Valuation Date of all Posted Credit Support held by the Secured Party.” and inserting in lieu thereof the following:",
+                    "hasMoreData": false,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "The “Delivery Amount” applicable to the Pledgor for any Valuation Date will equal the greatest of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(b) the S&P First Trigger Value as of such Valuation Date of all Posted Credit Support held by the Secured Party,",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(b) the S&P Second Trigger Value as of such Valuation Date of all Posted Credit Support held by the Secured Party,",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "provided that, if on any Valuation Date, the Delivery Amount equals or exceeds the Pledgor’s Minimum Transfer Amount, the Pledgor will Transfer to the Secured Party sufficient Eligible Credit Support to ensure that, immediately following such Transfer, the Delivery Amount shall be zero.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Return Amount",
+            "definition": "",
+            "references": "Paragraph 13”, Paragraph 3b",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Return Amount",
+                "value": "“” has the meaning specified in Paragraph 3(b) as amended by deleting in its entirety the sentence beginning “Unless otherwise specified in Paragraph 13” and ending “(ii) the Credit Support Amount.” and inserting in lieu thereof the following:",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "The “Return Amount” applicable to the Secured Party for any Valuation Date will equal the least of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "provided that, in no event shall the Secured Party be required to Transfer any Eligible Credit Support if, immediately following such Transfer, the Delivery Amount would be greater than zero.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Credit Support Amount",
+            "definition": "",
+            "references": "Paragraph 13biB, Paragraph 13biA",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Credit Support Amount",
+                "value": "“” shall not apply. For purposes of calculating any Delivery Amount or Return Amount for any Valuation Date, reference shall be made to the S&P First Trigger Credit Support Amount, the S&P Second Trigger Credit Support Amount, the Moody’s First Trigger Credit Support Amount or the Moody’s Second Trigger Credit Support Amount, in each case for such Valuation Date, as provided in Paragraphs 13(b)(i)(A) and 13(b)(i)(B), above.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "On any date, the following items of collateral will qualify as “Eligible Collateral”:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Collateral",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "S&P First Trigger Valuation Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "S&P Second Trigger Valuation Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Valuation Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s Second Trigger Valuation Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(A) Cash 100% 80% 100% 100%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "maturity on such date of less than one year 98.04% 78.43% 100% 100%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "years 98.04% 78.43% 100% 97%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Collateral",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "S&P First Trigger Valuation",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "S&P Second Trigger Valuation",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Valuation",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s Second Trigger Valuation",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Percentage",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "years 92.59% 74.07% 100% 94%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Relevant Rating Agency in writing with such Valuation Percentages as determined by each Relevant Rating Agency.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "% to be determined",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "% to be determined",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "% to be determined",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "% to be determined",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Notwithstanding the Valuation Percentages set forth in the preceding table, upon the first Transfer of Eligible Collateral under this Annex, the Pledgor may, at the Pledgor’s expense, agree to update and modify the Valuation Percentages in relation to (B) through (D) above with the Relevant Rating Agency (to the extent such Rating Agency is providing a rating for the Notes), and upon such agreement (which, for the avoidance of doubt, is subject to the Rating Agency Condition with respect to the Relevant Rating Agency) and with prompt notice to Party B (in each case, as evidenced in writing), such Valuation Percentages shall supersede those set forth in the preceding table.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "There shall be no “Other Eligible Support” for Party A for purposes of this Annex.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Independent Amount",
+            "definition": "",
+            "references": "",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Threshold",
+                "value": "“” means, with respect to Party A and any Valuation Date, zero if a Collateral Event has occurred and has been continuing (i) for at least 30 Local Business Days if such Collateral Event is attributable to credit ratings of Moody’s, (ii) for at least 10 Local Business Days if such Collateral Event is attributable to credit ratings of S&P or (iii) since this Annex was executed; otherwise, infinity.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "“Threshold” means, with respect to Party B and any Valuation Date, infinity.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Minimum Transfer Amount",
+            "definition": "",
+            "references": "",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Minimum Transfer Amount",
+                "value": "“” means USD 100,000 with respect to Party A and Party B; provided, however, that if the Outstanding Amount of the Notes rated by S&P is less than USD 50,000,000, the “” shall be reduced to USD 50,000.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Valuation Agent",
+            "definition": "",
+            "references": "",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Notification Time",
+                "value": "“” means 12:00 p.m. (noon), New York time, on a Local Business Day.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Conditions Precedent and Secured Party’s Rights and Remedies",
+            "definition": ". The following Termination Events will be a “Specified Condition” for the party specified (that party being the Affected Party if the Termination Event occurs with respect to that party): With respect to Party A: any Additional Termination Event with respect to which Party A is the sole Affected Party. With respect to Party B: None.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Substitution Date",
+            "definition": "",
+            "references": "Paragraph 4di, Paragraph 4d",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Consent.",
+                "value": "The Pledgor must obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d) and shall give to the Secured Party not less than two (2) Local Business Days’ notice thereof specifying the items of Posted Credit Support intended for substitution.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Resolution Time",
+            "definition": "",
+            "references": "Paragraph 5iC, Paragraph 5ii, Paragraph 12, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Value",
+                "value": ". Notwithstanding anything to the contrary in Paragraph 12, for the purpose of Paragraphs 5(i)(C) and 5(ii), the S&P First Trigger Value, the S&P Second Trigger Value, the Moody’s First Trigger Value and the Moody’s Second Trigger Value, on any date, of Eligible Collateral will be calculated as follows:",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "For Eligible Collateral in the form of securities listed in Paragraph 13(b)(ii): the sum of (A) the product of (1)(x) the bid price at the Valuation Time for such securities on the principal national securities exchange on which such securities are listed or (y) if such securities are not listed on a national securities exchange, the bid price for such securities quoted at the",
+            "references": "Paragraph 13bii",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Valuation Time by any principal market\u00admaker for such securities selected by the Valuation Agent or (z) if no such bid price is listed or quoted for such date, the bid price listed or quoted (as the case may be) at the Valuation Time for the day next preceding such date on which such prices were available and (2) the applicable Valuation Percentage for such Eligible Collateral and (B) the accrued interest on such securities (except to the extent Transferred to the Pledgor pursuant to Paragraph 6(d)(ii) or included in the applicable price referred to in the immediately preceding clause (A)) as of such date. For Eligible Collateral in the form of Cash, the product of (1) the amount of such Cash and (2) the applicable Valuation Percentage.",
+            "references": "Paragraph 6dii",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Alternative",
+            "definition": "",
+            "references": "Paragraph 3, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Alternative",
+                "value": ". The provisions of Paragraph 5 will apply, provided the obligation of the appropriate party to deliver the undisputed amount to the other party will not arise prior to the time that would otherwise have applied to the Transfer pursuant to, or deemed made, under Paragraph 3 if no dispute had arisen.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Eligibility to Hold Posted Collateral; Custodians.",
+            "definition": "",
+            "references": "Paragraph 6b",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Eligibility to Hold Posted Collateral; Custodians.",
+                "value": "Party B (or any Custodian) will be entitled to hold Posted Collateral pursuant to Paragraph 6(b) so long as Party B (or any Custodian) is a financial institution located in the United States having total assets of at least $250,000,000 and (i) a short\u00adterm unsecured and unsubordinated debt or counterparty rating of “Prime\u00ad1” from Moody’s and (ii) a short\u00adterm unsecured and unsubordinated debt rating from S&P of “A\u00ad1” or, if such entity does not have a short\u00adterm unsecured and unsubordinated debt rating from S&P, a long\u00adterm unsecured and unsubordinated debt rating from S&P of “A+”.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "In the event that Party B (or any Custodian) no longer satisfies the credit ratings of S&P set forth in clause (ii) above, Party B shall cause any Posted Collateral to be moved to another financial institution satisfying such credit ratings in clause (ii) above within 60 calendar days.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Initially, the Custodian for Party B is: The Bank of New York, as Indenture Trustee.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Use of Posted Collateral.",
+            "definition": "",
+            "references": "Paragraph 6c",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Use of Posted Collateral.",
+                "value": "The provisions of Paragraph 6(c) will not apply to Party B.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Interest Rate.",
+            "definition": "",
+            "references": "Paragraph 6dii",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Posted Collateral",
+                "value": ". The definition of Posted Collateral shall be amended by inserting the words “received by Party B and” after “Interest Amount (or portion thereof)”.",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "Other Eligible Support and Other Posted Support.",
+            "definition": "Not Applicable.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Demands and Notices",
+            "definition": ". All demands, specifications and notices under this Annex will be made pursuant to the Notices Section of this Agreement, except that any demand, specification or notice shall be given to or made at the following addresses or at such other address as the relevant party may from time to time designate by giving notice (in accordance with the terms of this paragraph) to the other party:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "If to Party B’s Custodian, at the address specified for Party B pursuant to the Notices Section of this Agreement.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Address for Transfers",
+            "definition": ". Each Transfer hereunder shall be made to an address specified in writing from time to time by the party to which such Transfer will be made.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "In lieu of returning to the Pledgor pursuant to Paragraphs 3(b), 4(d), 5 and 8(d) any Posted Collateral comprising securities the Secured Party may return Equivalent Collateral. “Equivalent Collateral” means, with respect to any security constituting Posted Collateral, a security of the same issuer and, as applicable, representing or having the same class, series, maturity, interest rate, principal amount or liquidation value and such other provisions as are necessary for that security and the security constituting Posted Collateral to be treated as equivalent in the market for such securities.",
+            "references": "Paragraph 3b",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Collateral Account.",
+            "definition": "",
+            "references": "Paragraph 1b",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Agreement as to Single Secured Party and Single Pledgor.",
+                "value": "Paragraph 1(b) of this Annex is amended by deleting it and restating it in full as follows:",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "“(b) Secured Party and Pledgor. All references in this Annex to the “Secured Party” mean Party B, and all references in this Annex to the “Pledgor” mean Party A; provided, however, that if Other Posted Support is held by Party B, all references herein to the Secured Party with respect to that Other Posted Support will be to Party B as the beneficiary thereof and will not subject that support or Party B as the beneficiary thereof to provisions of law generally relating to security interests and secured parties.”",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Party A, as the Pledgor, hereby pledges to Party B, as the Secured Party, as security for the Pledgor’s Obligations, and grants to the Secured Party a first priority continuing security interest in, lien on and right of Set off against all Posted Collateral Transferred to or received by the Secured Party hereunder.”",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Calculation of Value",
+            "definition": "",
+            "references": "Paragraph 4c, Paragraph 4dii, Paragraph 5",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Calculation of Value",
+                "value": ". Paragraph 4(c) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value, Moody’s Second Trigger Value”. Paragraph 4(d)(ii) is hereby amended by (A) deleting the words “a Value” and inserting in lieu thereof “an S&P First Trigger Value, S&P Second Trigger Value, a Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable” and (B) deleting the words “the Value” and inserting in lieu thereof “the S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable”. Paragraph 5 (flush language) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P First Trigger Value, S&P Second Trigger Value,",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable”. Paragraph 5(i) (flush language) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable”. Paragraph 5(i)(C) is hereby amended by deleting the word “Value” and inserting in lieu thereof “the S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable”. Paragraph 5(ii) is hereby",
+            "references": "Paragraph 5iC, Paragraph 5i, Paragraph 5ii",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "amended by (1) deleting the first instance of the words “the Value” and inserting in lieu thereof “any one or more of the S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value or Moody’s Second Trigger Value” and (2) deleting the second instance of the words “the Value” and inserting in lieu thereof “such disputed S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value or Moody’s Second Trigger Value, as applicable”. Each of Paragraph 8(b)(iv)(B) and Paragraph 11(a) is hereby amended by deleting the word “Value” and inserting in lieu thereof “least of the S&P First Trigger Value, S&P Second Trigger Value, Moody’s First Trigger Value and Moody’s Second Trigger Value”.",
+            "references": "Paragraph 11a, Paragraph 8bivB",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "Event of Default.",
+            "definition": "",
+            "references": "Paragraph 7, Paragraph 7i, Paragraph 3b, Paragraph 10, Paragraph 6dii",
+            "hasMoreData": true,
+            "value": [
+              {
+                "name": "Additional Definitions.",
+                "value": "As used in this Annex:",
+                "hasMoreData": false,
+                "data": []
+              }
+            ]
+          },
+          {
+            "concept": "null",
+            "definition": "“Collateral Event” means that neither Party A nor any Eligible Guarantor of Party A under an Eligible Guarantee has credit ratings at least equal to the First Trigger Ratings Threshold with respect to Moody’s and the First Trigger Ratings Threshold with respect to S&P (or, in the case of an entity that is not a Financial Institution, credit ratings from S&P at least equal to the credit ratings set forth in the corresponding Second Ratings Trigger Threshold for S&P).",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Exposure” has the meaning set forth specified in Paragraph 12, except that (i) after the word “Agreement” the words “(assuming, for this purpose only, that Part 1(j) of the Schedule is deleted)” shall be inserted and (ii) Replacement Transactions shall have the meaning given to such term in the definition of “Market Quotation” in Section 14 of this Agreement.",
+            "references": "Paragraph 12",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Moody’s First Trigger Credit Support Amount” means, for any Valuation Date, the excess, if any, of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "For the purposes of this definition, the “Moody’s Additional Collateralized Amount” with respect to any Transaction shall mean:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "the product of the applicable Moody’s First Trigger Factor set forth in Table A and the Notional Amount for such Transaction for the Calculation Period which includes such Valuation Date; or",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(B) for any other Valuation Date, zero, over",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Moody’s First Trigger Ratings Event” has the meaning set forth in Part 1(m)(iv) of this Agreement.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Moody’s Second Trigger Credit Support Amount” means, for any Valuation Date, the excess, if any, of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "For the purposes of this definition, the “Moody’s Additional Collateralized Amount” with respect to any Transaction shall mean:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "if such Transaction is not a Transaction\u00adSpecific Hedge,",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "the product of the applicable Moody’s Second Trigger Factor set forth in Table B and the Notional Amount for such Transaction for the Calculation Period which includes such Valuation Date; or",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "if such Transaction is a Transaction\u00adSpecific Hedge,",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "the product of the applicable Moody’s Second Trigger Factor set forth in Table C and the Notional Amount for such Transaction for the Calculation Period which includes such Valuation Date; or",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(B) for any other Valuation Date, zero, over",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Moody’s Second Trigger Ratings Event” has the meaning set forth in Part 1(m)(iv) of this Agreement.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Next Payment” means, in respect of each Next Payment Date, the greater of (i) any payments due to be made by Party A under Section 2(a) on such Next Payment Date less any payments due to be made by Party B under Section 2(a) on such Next Payment Date (any such payments determined based on rates prevailing on such Valuation Date) and (ii) zero.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Next Payment Date” means, each date on which the next scheduled payment under any Transaction is due to be paid.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Pricing Sources” means the sources of financial information commonly known as Bloomberg, Bridge Information Services, Data Resources Inc., Interactive Data Services, International Securities Market Association, Merrill Lynch Securities Pricing Service, Muller Data Corporation, Reuters, Wood Gundy, Trepp Pricing, JJ Kenny, S&P and Telerate.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“S&P First Trigger Credit Support Amount” means, only if Party A or an Eligible Guarantor of Party A under an Eligible Guarantee is a Financial Institution, for any Valuation Date, the excess, if any, of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(B) for any other Valuation Date, zero, over",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“S&P First Trigger Ratings Event” has the meaning set forth in Part 1(m)(iv) of this Agreement.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“S&P Second Trigger Credit Support Amount” means, for any Valuation Date, the excess, if any, of:",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "(B) for any other Valuation Date, zero, over",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“S&P Second Trigger Ratings Event” has the meaning set forth in Part 1(m)(iv) of this Agreement.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Transaction\u00adSpecific Hedge” means any Transaction in respect of which either (x) the Notional Amount for each Calculation Period of such Transaction is “balance guaranteed” or (y) the Notional Amount for each Calculation Period of such Transaction is not a specific dollar amount that is fixed at the inception of the Transaction.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "“Value” shall mean, in respect of any date, the related S&P First Trigger Value, the related S&P Second Trigger Value, the related Moody’s First Trigger Value and the related Moody’s Second Trigger Value, as applicable.",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Weighted Average Life of Hedge in Years",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Factors for single",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "currency hedges",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "1 year or less 0.15%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 1 year but not more than 2 years 0.30%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 2 years but not more than 3 years 0.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 3 years but not more than 4 years 0.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 4 years but not more than 5 years 0.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 5 years but not more than 6 years 0.80%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 6 years but not more than 7 years 1.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 7 years but not more than 8 years 1.10%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 8 years but not more than 9 years 1.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 9 years but not more than 10 years 1.30%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 10 years but not more than 11 years 1.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 11 years but not more than 12 years 1.50%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 12 years but not more than 13 years 1.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 13 years but not more than 14 years 1.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 14 years but not more than 15 years 1.80%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 15 years but not more than 16 years 1.90%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 16 years but not more than 17 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 17 years but not more than 18 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 18 years but not more than 19 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 19 years but not more than 20 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 20 years but not more than 21 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 21 years but not more than 22 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 22 years but not more than 23 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 23 years but not more than 24 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 24 years but not more than 25 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 25 years but not more than 26 years 2.00% 21",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Weighted Average Life of Hedge in Years",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Factors for single",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "currency hedges",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 26 years but not more than 27 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 27 years but not more than 28 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 28 years but not more than 29 years 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "30 years or more 2.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Weighted Average Life of Hedge in Years",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s Second Trigger Factors for single currency hedges that",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "are not Transaction\u00ad",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Specific Hedges",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "1 year or less 0.50%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 1 year but not more than 2 years 1.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 2 years but not more than 3 years 1.50%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 3 years but not more than 4 years 1.90%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 4 years but not more than 5 years 2.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 5 years but not more than 6 years 2.80%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 6 years but not more than 7 years 3.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 7 years but not more than 8 years 3.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 8 years but not more than 9 years 4.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 9 years but not more than 10 years 4.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 10 years but not more than 11 years 4.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 11 years but not more than 12 years 5.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 12 years but not more than 13 years 5.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 13 years but not more than 14 years 5.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 14 years but not more than 15 years 6.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 15 years but not more than 16 years 6.30%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 16 years but not more than 17 years 6.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 17 years but not more than 18 years 6.90%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 18 years but not more than 19 years 7.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 19 years but not more than 20 years 7.50% 22",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s First Trigger Factors for single currency hedges that are Transaction\u00ad Specific Hedges",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 20 years but not more than 21 years 7.80%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 21 years but not more than 22 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 22 years but not more than 23 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 23 years but not more than 24 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 24 years but not more than 25 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 25 years but not more than 26 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 26 years but not more than 27 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 27 years but not more than 28 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 28 years but not more than 29 years 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "30 years or more 8.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Weighted Average Life of Hedge in Years",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Moody’s Second Trigger Factors for single currency hedges that",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "are Transaction\u00adSpecific Hedges",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "1 year or less 0.65%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 1 year but not more than 2 years 1.30%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 2 years but not more than 3 years 1.90%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 3 years but not more than 4 years 2.50%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 4 years but not more than 5 years 3.10%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 5 years but not more than 6 years 3.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 6 years but not more than 7 years 4.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 7 years but not more than 8 years 4.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 8 years but not more than 9 years 5.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 9 years but not more than 10 years 5.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 10 years but not more than 11 years 6.10%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 11 years but not more than 12 years 6.50%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 12 years but not more than 13 years 7.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 13 years but not more than 14 years 7.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 14 years but not more than 15 years 7.80%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 15 years but not more than 16 years 8.20%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 16 years but not more than 17 years 8.60%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 17 years but not more than 18 years 9.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 18 years but not more than 19 years 9.40%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 19 years but not more than 20 years 9.70%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 20 years but not more than 21 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 21 years but not more than 22 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 22 years but not more than 23 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 23 years but not more than 24 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 24 years but not more than 25 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 25 years but not more than 26 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 26 years but not more than 27 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 27 years but not more than 28 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Greater than 28 years but not more than 29 years 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "30 years or more 10.00%",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "WORLD OMNI AUTO RECEIVABLES TRUST 2007\u00adB",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "By: Deutsche Bank Trust Company Delaware, not in its individual capacity, but solely as Owner Trustee",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "By: /s/ LeeLee Panno By: /s/ Louis Bodi",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Name: LeeLee Panno Name: Louis Bodi",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Title: Associate Director Title: Attorney\u00adin\u00adfact",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "Date: 9/26/07 Date: 9/26/07",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          },
+          {
+            "concept": "null",
+            "definition": "By: /s/ Eileen M. Hughes Name: Eileen M. Hughes Title: Attorney\u00adin\u00adfact Date: 9/26/07",
+            "references": "",
+            "hasMoreData": false,
+            "value": []
+          }
+        ]
+      }
+    ]
+  },
+  "status": true,
+  "total": 0,
+  "flag": false
+}
